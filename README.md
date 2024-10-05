@@ -1,4 +1,4 @@
-![Screenshot 2024-10-05 100045](https://github.com/user-attachments/assets/d56e9be4-aca1-4824-b57a-d34f58ba720e)# Counter_4bit_up-down
+# Counter_4bit_up-down
 
 ## Aim:
 
@@ -24,7 +24,6 @@ The output is Counter which is 4 bit in size.
 
 	You have to apply high value to reset, to reset the Counter output.
  
-![image](https://github.com/user-attachments/assets/efe1095e-989e-4005-b53b-e9dc50d4025c)
 
 ## Fig 1: 4 Bit Up/Down Counter
 
@@ -42,10 +41,8 @@ Functional Simulation:
       
 	After this you can see the window like below 
 
-
-## Fig 2: Invoke the Cadence Environment
-
 ![Screenshot 2024-10-04 131331](https://github.com/user-attachments/assets/0081792b-9ca3-4274-8519-3cec6087854c)
+## Fig 2: Invoke the Cadence Environment
 
 ## Creating Source Code:
 
@@ -173,9 +170,10 @@ It contains statements that map logical library names to their physical director
 ![Screenshot 2024-10-05 100206](https://github.com/user-attachments/assets/7538f1e3-559a-4065-bdc7-b4851ba5c77f)
 
 ## Fig 9: Design Browser window for simulation
-![Screenshot 2024-10-05 100530](https://github.com/user-attachments/assets/29852b9b-00e9-4939-903b-d62abf3ddd16)
+![Uploading Screenshot 2024-10-05 100501.png…]()
 
 ## Fig 10: Simulation Waveform Window
+![Screenshot 2024-10-05 100530](https://github.com/user-attachments/assets/29852b9b-00e9-4939-903b-d62abf3ddd16)
 
-## Fig 11: Simulation Waveform Window
+## Fig 11: Simulation Waveform 
 
